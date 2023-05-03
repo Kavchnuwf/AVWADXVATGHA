@@ -687,15 +687,15 @@ spawn(function()
     end
 end)
 
-if not (response.Body == AllEAC(YaY.."GotBlacklistByNealonX"..YaY.."TryAgainToCrackAble"..tostring(OSTimEGetValueEieiSocute))) and (response.Body ~= AllEAC(YaY.."GotBlacklistByNealonX"..YaY.."TryAgainToCrackAble"..tostring(OSTimEGetValueEieiSocute))) then
-    game.Players.LocalPlayer:Kick(response.Body)
-	wait(10)
-	game:Shutdown()
-	wait(1)
-	if game then
-    	while true do end
-	end
-end
+-- if not (response.Body == AllEAC(YaY.."GotBlacklistByNealonX"..YaY.."TryAgainToCrackAble"..tostring(OSTimEGetValueEieiSocute))) and (response.Body ~= AllEAC(YaY.."GotBlacklistByNealonX"..YaY.."TryAgainToCrackAble"..tostring(OSTimEGetValueEieiSocute))) then
+--     game.Players.LocalPlayer:Kick(response.Body)
+-- 	wait(10)
+-- 	game:Shutdown()
+-- 	wait(1)
+-- 	if game then
+--     	while true do end
+-- 	end
+-- end
 repeat wait(0) until AnWjEcE == CheckAHE and EnQAlECWE == 128 and QFVWvTep == 128 and QFVWvTep == QFVWvTep
 
 RunTimeAfter = tick()
